@@ -1,2 +1,1 @@
 boss,yjie2,Jie,Yaqi
-employee,yjie2,Jie,Yaqi
